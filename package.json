@@ -1,0 +1,11 @@
+{
+  "name": "liuchenyang0703.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/beizhedenglong/beizhedenglong.github.io.git",
+  "author": "Victor Liu <2162059863@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "cp -R dist/* ./"
+  }
+}
