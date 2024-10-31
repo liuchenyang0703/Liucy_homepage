@@ -1,6 +1,7 @@
 # liuchenyang0703.github.io
-github个人地址主页【个人主页推荐】
+[github个人地址主页【个人主页推荐】](https://liuchenyang0703.github.io/)
 
 # 页面展示
-![image](https://github.com/user-attachments/assets/ac492cc5-1d76-49eb-a367-f0eb9dce3a69)
+![image](https://github.com/user-attachments/assets/a657c755-7b4e-4359-a945-74b48546c40b)
+
 
